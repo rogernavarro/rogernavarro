@@ -7,6 +7,7 @@
 ### How to reach me: <img src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/web-icon-hover.png" width="30px">
 
 [<img width="40px" src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/facebook%20(1).png" alt="Facebook logo">](https://web.facebook.com/roger.navarro.perez) 
+[<img width="40px" src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/twitter.png" alt="Github logo">](https://twitter.com/rogernavarroitm/)
 [<img width="40px" src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/github.png" alt="Github logo">](https://github.com/rogernavarro/)
 [<img width="40px" src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/likedin%20(1).png" alt="Linkedin Logo">](https://www.linkedin.com/in/roger-isaac-navarro-perez-41072019/)
 [<img width="40px" src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/mail.png" alt="Mail Logo">](mailto:roger.navarro.perez@gmail.com)
@@ -19,8 +20,9 @@ const RogerNavarro = {
     "Web Development", "Mobile Development", "Iot Development", "Cloud computing"
   ],
   myTechStack: [
-    "HTML5", "CSS3", "Javascript", "Git", "Bootstrap", "PHP", "Java Script",
-	"Java SE", "Java Android Native", "C#, Visual Basic .net", "Xamarin", "Phyton"
+    "HTML5", "CSS3", "Javascript", "Git", "Bootstrap", "PHP", "WordPress", "PrestaShop",
+	"Java SE", "Java Android Native", "C#, Visual Basic .net", "Xamarin", "Phyton", "R", "YOLO3",
+	"AWS Linux 2", "AWS EC2", "AWS IAM", "AWS SES"
   ]
 }
 ```
