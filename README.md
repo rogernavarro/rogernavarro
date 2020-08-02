@@ -2,25 +2,25 @@
 
 ## Hi!, I am Roger Navarro <img src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/custom-icon-hover.png" width="29px">
 
-*Software Developer at [Infusion](https://infusion.com.mx/)*
+*Software Engineer*
 
 ### How to reach me: <img src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/web-icon-hover.png" width="30px">
 
 [<img width="40px" src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/facebook%20(1).png" alt="Facebook logo">](https://web.facebook.com/roger.navarro.perez) 
 [<img width="40px" src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/github.png" alt="Github logo">](https://github.com/rogernavarro/)
 [<img width="40px" src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/likedin%20(1).png" alt="Linkedin Logo">](https://www.linkedin.com/in/roger-isaac-navarro-perez-41072019/)
-
-<br>
+[<img width="40px" src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/mail.png" alt="Mail Logo">](mailto:roger.navarro.perez@gmail.com)
 
 ### This is more about me <img src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/movil-icon.png" width="30px">
 
 ```javascript
 const RogerNavarro = {
   askMeAbout: [
-    "web development"
+    "Web Development", "Mobile Development", "Iot Development", "Cloud computing"
   ],
   myTechStack: [
-    "HTML5", "CSS3", "Javascript", "Git", "Bootstrap" 
+    "HTML5", "CSS3", "Javascript", "Git", "Bootstrap", "PHP", "Java Script",
+	"Java SE", "Java Android Native", "C#, Visual Basic .net", "Xamarin", "Phyton"
   ]
 }
 ```
