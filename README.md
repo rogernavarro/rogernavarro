@@ -22,7 +22,7 @@ const RogerNavarro = {
   myTechStack: [
     "HTML5", "CSS3", "Javascript", "Git", "Bootstrap", "PHP", "WordPress", "PrestaShop",
 	"Java SE", "Java Android Native", "C#, Visual Basic .net", "Xamarin", "Phyton", "R", "YOLO3",
-	"Mysql", "SQLServer", "Oracle", "TransacSQL", "PL/SQL",
+	"Mysql", "SQLServer", "Oracle", "TransacSQL", "PL/SQL", "SQLLite"
 	"Raspberry", "ESP32", "Windows Azure", "Windows Universal Plattform", "Arduino"
 	"AWS Linux 2", "AWS EC2", "AWS IAM", "AWS SES",
   ]
