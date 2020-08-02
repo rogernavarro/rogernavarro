@@ -1,16 +1,26 @@
-### Hi there 👋
+<img align='right' width="30%" src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/banner-image.png" alt="Working gif">
 
-<!--
-**rogernavarro/rogernavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi!, I am Roger Navarro <img src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/custom-icon-hover.png" width="29px">
 
-Here are some ideas to get you started:
+*Software Developer at [Infusion](https://infusion.com.mx/)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to reach me: <img src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/web-icon-hover.png" width="30px">
+
+[<img width="40px" src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/facebook%20(1).png" alt="Facebook logo">](https://web.facebook.com/roger.navarro.perez) 
+[<img width="40px" src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/github.png" alt="Github logo">](https://github.com/rogernavarro/)
+[<img width="40px" src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/likedin%20(1).png" alt="Linkedin Logo">](https://www.linkedin.com/in/roger-isaac-navarro-perez-41072019/)
+
+<br>
+
+### This is more about me <img src="https://github.com/rogernavarro/rogernavarro/blob/master/assets/movil-icon.png" width="30px">
+
+```javascript
+const RogerNavarro = {
+  askMeAbout: [
+    "web development"
+  ],
+  myTechStack: [
+    "HTML5", "CSS3", "Javascript", "Git", "Bootstrap" 
+  ]
+}
+```
